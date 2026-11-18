@@ -61,6 +61,13 @@ h1 {
   font-size: 1.15rem;
 }
 
+.greetings {
+  margin: 10px 0 0;
+  font-size: 1rem;
+  color: var(--teal);
+  font-weight: 600;
+}
+
 .stripes {
   display: flex;
   justify-content: center;
